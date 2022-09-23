@@ -5,5 +5,6 @@ public class Demo {
 		Integer i = 25;
 		String  j = "35";
 		System.out.println(i+j);
+		System.out.println();
 	}
 }
